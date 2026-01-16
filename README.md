@@ -31,6 +31,8 @@ I come from a strong background in **IT Support & Network Operations** (NTT Data
 
 Now, I'm fully focused on mastering **Software Development** (Java/C#).
 
+📄 **Want to know more?** [Check my full Resume here](./Resume.md)
+
 ---
 
 ### 🚀 Featured Project
@@ -41,5 +43,4 @@ Now, I'm fully focused on mastering **Software Development** (Java/C#).
 
 ---
 
-📄 **Want to know more?** [Check my full Resume here](./Resume.md)
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/carlossaelicesperez/)
