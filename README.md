@@ -41,4 +41,5 @@ Now, I'm fully focused on mastering **Software Development** (Java/C#).
 
 ---
 
+📄 **Want to know more?** [Check my full Resume here](./Resume.md)
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/carlossaelicesperez/)
