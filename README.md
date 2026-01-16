@@ -41,4 +41,4 @@ Now, I'm fully focused on mastering **Software Development** (Java/C#).
 
 ---
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/scarlosdev/)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/carlossaelicesperez/)
