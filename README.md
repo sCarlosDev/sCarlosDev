@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm sCarlosDev
 
 🎓 **DAM Student (Cross-Platform App Development)** based in Alicante, Spain.  
-🚀 Passionate about clean code, backend logic, and AI.
+🚀 Passionate about clean code, backend logic, and AI. <br>
 💡 Former **IT Support Specialist** at NTT Data, now pivoting to **Software Engineering**.
 
 ---
